@@ -3,7 +3,7 @@ Module 6 Challenge
 
 ## Overview of Project
 
-Due to the overwhelming success of the PlanMyTrip app, we have received terrific feedback along with some constructive criticism on how to make the app even better.  Some of the feedback received includes adding the current weather status to the weather data retrieval.  This will be displayed once the users select their destinations preferences based on their weather preferences.  Once the traveler has the list of destinations that meet their weather criteria, they will be able to specify which destinations and nearby hotels and create a travel itinerary.  Once the users make their selections, a travel route will be created to assist them with their travels.
+Due to the overwhelming success of the PlanMyTrip app, we have received terrific feedback along with some constructive criticism on how to make the app even better.  Some of the feedback received includes adding the current weather status to the weather data retrieval.  This will be displayed once the user selects their destination preferences based on their weather preferences.  Once the traveler has the list of destinations that meet their weather criteria, they will be able to select their destinations, nearby hotels and also create a travel itinerary.  Once the users make their selections, a travel route will be created to assist them with their travels.
 
 ### Purpose
 
@@ -24,7 +24,7 @@ For the first deliverable, we had to generate 2000 random longitudes and latitud
 
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
-For this deliverable we are required to take inputs supplied by the user regarding weather preferences and search the list of cities that were created during first deliverable and return cities that meet the users weather requirements.  The output will be an interactive map generated utilizing Google maps and APIs with markers on cities that met the users input criteria.  The user that can click on specific marker and return a short list of information regarding the name of the city, country city is located, nearby hotel and current weather.
+For this deliverable we are required to take inputs supplied by the user regarding weather preferences and search the list of cities that were created during first deliverable and return cities that meet the users weather requirements.  The output will be an interactive map generated utilizing Google maps and APIs with markers on cities that met the users input criteria.  The user then can click on specific marker and return a short list of information regarding the name of the city, country, nearby hotel and current weather.
 
 * Map meeting user weather requirements
 
