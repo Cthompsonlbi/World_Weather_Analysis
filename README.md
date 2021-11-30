@@ -31,4 +31,16 @@ For this deliverable we are required to take inputs supplied by the user regardi
 ![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Deliverable 3: Create a Travel Itinerary Map
+For the final deliverable, we will use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the user's possible travel destinations. The user will select four cities and we will create a travel itinerary.  In addition to the travel itinerary, we will provide the user basic information about that city when they click the marker.
+
+* Map showing an example itinerary based on users inputs.
+
+![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
+
+* Map showing weather and hotel information of the cities selected by the user
+
+![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+
 ## Summary
+In summary, this was a very interesting exercise that helped open the wide rangeing possiblities and uses for Python, APIs, etc.
