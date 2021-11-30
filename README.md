@@ -3,7 +3,7 @@ Module 6 Challenge
 
 ## Overview of Project
 
-Due to the overwhelming success of the PlanMyTrip app, we have received terrific positive feedback along with some constructive criticism on how to make the app even better.  Some of the feedback received includes adding the current weather status to the weather data retrieval.  This will be displayed once the users select their destinations preferences based on their weather preferences.  Once the traveler has the list of destinations that meet their weather criteria, they will be able to specify which destinations and nearby hotels and create a travel itinerary.  Once the users make their selections, a travel route will be created to assist them with their travels.
+Due to the overwhelming success of the PlanMyTrip app, we have received terrific feedback along with some constructive criticism on how to make the app even better.  Some of the feedback received includes adding the current weather status to the weather data retrieval.  This will be displayed once the users select their destinations preferences based on their weather preferences.  Once the traveler has the list of destinations that meet their weather criteria, they will be able to specify which destinations and nearby hotels and create a travel itinerary.  Once the users make their selections, a travel route will be created to assist them with their travels.
 
 ### Purpose
 
