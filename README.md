@@ -24,5 +24,11 @@ For the first deliverable, we had to generate 2000 random longitudes and latitud
 
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
+For this deliverable we are required to take inputs supplied by the user regarding weather preferences and search the list of cities that were created during first deliverable and return cities that meet the users weather requirements.  The output will be an interactive map generated utilizing Google maps and APIs with markers on cities that met the users input criteria.  The user that can click on specific marker and return a short list of information regarding the name of the city, country city is located, near by hotel and current weather.
+
+* Map meeting user weather requirements
+
+![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
+
 ### Deliverable 3: Create a Travel Itinerary Map
 ## Summary
